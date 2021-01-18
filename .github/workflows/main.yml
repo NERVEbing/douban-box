@@ -29,6 +29,6 @@ jobs:
           douban-box
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          GIST_ID: ae3d7edbac6d69f6088a8eedd956ca0b
-          DOUBAN_ID: daraw
+          GIST_ID: c21fac2c87495e9d396b0813a975171d
+          DOUBAN_ID: 157489011
           DOUBAN_COOKIE: ${{ secrets.DOUBAN_COOKIE }}
